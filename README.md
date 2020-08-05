@@ -33,3 +33,4 @@ result_ratio%>%
   ggplot(aes(smoke_rate,relate))+
   geom_point()+
   facet_wrap(~factor)
+test
